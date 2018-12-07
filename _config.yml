@@ -1,1 +1,9 @@
+title: murmcraft
+author: murmcraft
+description: > # this means to ignore newlines until "baseurl:"
+  Amigurumien virkkausohjeita.
+# social links
+github_username:  murmcraft
+
+show_excerpts: true
 theme: jekyll-theme-tactile
