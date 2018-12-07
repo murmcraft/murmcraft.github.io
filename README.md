@@ -1,3 +1,3 @@
 # Amigurumiohjeita
 
-Itse kehitettyjäa amigurumiohjeita tai muiden kehittämiä ohjeita (luvallisesti) käännettynä.
+Itse kehitettyjä amigurumiohjeita tai muiden kehittämiä ohjeita (luvallisesti) käännettynä.
