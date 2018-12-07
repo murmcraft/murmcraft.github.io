@@ -1,3 +1,3 @@
-# Amigurumiohjeita suomeksi ja englanniksi
+# Amigurumiohjeita
 
-Itse kehitettyjä tai muiden kehittämiä ohjeita (luvallisesti) käännettynä suomeksi.
+Itse kehitettyjäa amigurumiohjeita tai muiden kehittämiä ohjeita (luvallisesti) käännettynä.
