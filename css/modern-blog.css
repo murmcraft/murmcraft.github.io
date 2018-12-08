@@ -228,14 +228,14 @@ body.body--hidden .header {
 }
 
 a {
-	text-decoration: none;
-	color: #de6551;
+	/*text-decoration: none;*/
+	color: #3f007d;
 	outline: none;
 }
 
 a:hover,
 a:focus {
-	color: #3b393d;
+	color: #6a51a3;
 }
 
 .body {
@@ -243,7 +243,7 @@ a:focus {
 }
 
 .body a {
-	color: #4f4c4c;
+	/*color: #6a51a3;*/
 }
 
 .body .header h1 span {
