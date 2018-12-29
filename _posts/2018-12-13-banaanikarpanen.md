@@ -68,13 +68,66 @@ Sulje pää virkkaamalla ks + ps + ks (näin saat nystyrät).
 
 #### Silmät:
 Punainen lanka
-    1. 8 silmukan magic ring
+1. 8 silmukan magic ring
 Tee lopetukseksi ps.
 
 #### Jalat (2kpl kutakin)
 Tässä käytin kropan väristä lankaa sekä hieman vaaleampaa lankaa kaverina [nyörivirkkauksessa](http://cup-of-stitches.blogspot.com/2014/01/crochet-cord-tutorial.html).
 Nyörivirkkauksella jalasta saa pyöreämmän ja jämäkämmän kuin pelkin ketjusilmukoin tehtynä. 
 
+Takajalat 
+1. 1 kjs aloitukseksi
+2. 17 nyöritekniikalla kahdella värillä
+3. 7 kjs yhdellä värillä
+
+Keskijalat
+1. 1 kjs aloitukseksi
+2. 14 nyöritekniikalla kahdella värillä
+3. 6 kjs yhdellä värillä
+
+Etujalat
+1. 1 kjs aloitukseksi
+2. 12 nyöritekniikalla kahdella värillä
+3. 4 kjs yhdellä värillä
+
+#### Siivet (2 kpl)
+Harmaa lanka
+1. 2 kjs + 1 kjs käännökseen (2)
+2. käännä, 2 ks + 1 kjs (2)
+3. käännä, 1 ks, lisäys + 1 kjs (3)
+4. käännä, lisäys, 2 ks + 1 kjs (4)
+5. käännä, lisäys, 2 ks, lisäys + 1 kjs (6)
+6. käännä, lisäys, lisäys, 4 ks + 1 kjs (8)
+7. käännä, 8 ks + 1 kjs (8)
+8. käännä, 7 ks, lisäys + 1 kjs (9)
+9. käännä, 8 ks, lisäys + 1 kjs (10)
+10. käännä, 10 ks + 1 kjs (10)
+11. käännä, 10 ks + 1 kjs (10)
+12. käännä, 10 ks + 1 kjs (10)
+13. käännä, 10 ks + 1 kjs (10)
+14. käännä, 8 ks, vähennys + 1 kjs (9)
+15. käännä, 7 ks, vähennys + 1 kjs (8)
+16. käännä, 6 ks, vähennys + 1 kjs (7)
+17. käännä, 7 ks + 1 kjs (7)
+18. käännä, 5 ks, vähennys + 1 kjs (6)
+19. käännä, vähennys, 2 ks, vähennys + 1 kjs (4)
+20. käännä, vähennys, vähennys + 1 kjs (2)
+21. käännä, vähennys (1)
+Virkkaa siiven reunat kiinteillä silmukoilla. **Huom!** Virkkaa toisen siiven reunat eri puolelta, jotta saat siivistä toistensa peilikuvat.
+
+#### Kokoaminen
+
+Kiinnitä silmät pään etuosaan hieman sivuille. 
+
+Kiinnitä lyhimmät jalat keskiosan yläreunaan, keskipitkät keskiosan alareunaan ja pisimmät jalat alaosan yläreunaan. Päättele jalkojen langat jalkoihin siten, että samalla saat hieman annettua jaloille muotoa.
+
+Tee siipiin kropan värisellä langalla (2 säiettä riittänee) mallin mukaisia rakenteita.
+
+Kiinnitä siivet keskiosan keskivaiheille.
+
+Pujottele ohutta metallilankaa karvoiksi.
+
+Liimaa kärpänen kropasta ja jaloista (tarvittaessa myös siipien päistä) korttiin.
 
 Mallin pohjana toimi [kuva Cambridgen yliopiston tekstissä](https://www.cam.ac.uk/research/features/how-close-are-you-to-a-fruit-fly) (29.7.2018)
 Kyseessä on siis koiraskärpänen – sukupuolet eroavat toisistaan [alaruumiin värityksen osalta](https://commons.wikimedia.org/wiki/File:Biology_Illustration_Animals_Insects_Drosophila_melanogaster.svg).
