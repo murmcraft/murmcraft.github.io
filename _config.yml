@@ -47,7 +47,7 @@ sass:
   style: compressed
 
 # Ruby Gems
-plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-bootstrap-sass]
+plugins: [jekyll-paginate, jekyll-seo-tag]
 
 # Bootstrap
 bootstrap:
