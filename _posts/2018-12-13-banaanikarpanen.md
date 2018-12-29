@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Banaanikärpänen"
+title:  "D. melanogaster -kortti"
 subtitle: ""
 author: "murmcraft"
 avatar: "authors/murmcraft_thumbnail.png"
@@ -9,12 +9,9 @@ img: "fruit_fly/fly_card.jpg"
 date:   2018-12-13 20:00:00
 ---
 
-Drosophila melanogaster -kortti 
-(banaanikärpänen)
-
 Valmistujaiskortti väitelleelle kärpästutkijalle. 
 
-Ystäväni väitöspäivä oli tuloillaan ja jonkinsortin kortti piti lahjan kaveriksi keksiä. Moista erityissaavutusta varten ei tietenkään ihan tavallinen kortti kelpaakkaan, vaan [hiirikortti-idean]({{ site.baseurl }}{% post_url 2018-12-07-dissektoitu-hiiri.md %}) myötä päädyin askartamaan tähänkin väitöskirjaan passelisti mätsäävän kortin. 
+Ystäväni väitöspäivä oli tuloillaan ja jonkinsortin kortti piti lahjan kaveriksi keksiä. Moista erityissaavutusta varten ei tietenkään ihan tavallinen kortti kelpaakkaan, vaan [hiirikortti-idean]({{ site.baseurl }}{% post_url 2018-12-07-dissektoitu-hiiri %}) myötä päädyin askartamaan tähänkin väitöskirjaan passelisti mätsäävän kortin. 
 
 Kortin pohjaksi tarvitsee olla jämäkkää kartonkia ja muutoinkin hellät otteet valmiin kortin kanssa lienevät paikallaan. 
 
@@ -80,4 +77,4 @@ Nyörivirkkauksella jalasta saa pyöreämmän ja jämäkämmän kuin pelkin ketj
 
 
 Mallin pohjana toimi [kuva Cambridgen yliopiston tekstissä](https://www.cam.ac.uk/research/features/how-close-are-you-to-a-fruit-fly) (29.7.2018)
-Kyseessä on siis koiraskärpänen – sukupuolet eroavat toisistaan alaruumiin värityksen osalta, kuten esimerkiksi [kuvassa](https://commons.wikimedia.org/wiki/File:Biology_Illustration_Animals_Insects_Drosophila_melanogaster.svg)
+Kyseessä on siis koiraskärpänen – sukupuolet eroavat toisistaan [alaruumiin värityksen osalta](https://commons.wikimedia.org/wiki/File:Biology_Illustration_Animals_Insects_Drosophila_melanogaster.svg).
