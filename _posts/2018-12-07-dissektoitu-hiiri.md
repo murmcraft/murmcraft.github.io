@@ -189,6 +189,8 @@ Kiinnitä etutassut vartalon yläosaan ja takajalat alaosaan.
 
 Kiinnitä häntä vartalon alaosan keskelle.
 
+![Hiiren alapuoli](/img/dissected_mouse/dissected_mouse_back.jpg){:class="img-responsive"}
+
 Liimaa tai ompele elimet oikeaoppiseen järjestykseen vartalon keskiosaan.
 
 Katkaise nuppineulojen varret sopivan pituisiksi sivuleikkureilla (noin 1–1.5 cm). 

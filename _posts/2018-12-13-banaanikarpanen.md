@@ -15,7 +15,7 @@ Ystäväni väitöspäivä oli tuloillaan ja jonkinsortin kortti piti lahjan kav
 
 Kortin pohjaksi tarvitsee olla jämäkkää kartonkia ja muutoinkin hellät otteet valmiin kortin kanssa lienevät paikallaan. 
 
-Materiaalit:
+#### Materiaalit:
 * Katia Amigurumi -lankoja eri värejä
 * virkattava metallilanka
 * täytevanu
@@ -23,10 +23,10 @@ Materiaalit:
 * pahvi/kartonkipala
 * 2.00 mm koukku
 
-Koko:
+#### Koko:
 ~8 cm pitkä
 
-Termit:
+#### Termit:
 - ks = kiinteä silmukka
 - kjs = ketjusilmukka
 - ps = piilosilmukka
@@ -75,17 +75,17 @@ Tee lopetukseksi ps.
 Tässä käytin kropan väristä lankaa sekä hieman vaaleampaa lankaa kaverina [nyörivirkkauksessa](http://cup-of-stitches.blogspot.com/2014/01/crochet-cord-tutorial.html).
 Nyörivirkkauksella jalasta saa pyöreämmän ja jämäkämmän kuin pelkin ketjusilmukoin tehtynä. 
 
-Takajalat 
+**Takajalat**
 1. 1 kjs aloitukseksi
 2. 17 nyöritekniikalla kahdella värillä
 3. 7 kjs yhdellä värillä
 
-Keskijalat
+**Keskijalat**
 1. 1 kjs aloitukseksi
 2. 14 nyöritekniikalla kahdella värillä
 3. 6 kjs yhdellä värillä
 
-Etujalat
+**Etujalat**
 1. 1 kjs aloitukseksi
 2. 12 nyöritekniikalla kahdella värillä
 3. 4 kjs yhdellä värillä
@@ -119,7 +119,7 @@ Virkkaa siiven reunat kiinteillä silmukoilla. **Huom!** Virkkaa toisen siiven r
 
 Kiinnitä silmät pään etuosaan hieman sivuille. 
 
-Kiinnitä lyhimmät jalat keskiosan yläreunaan, keskipitkät keskiosan alareunaan ja pisimmät jalat alaosan yläreunaan. Päättele jalkojen langat jalkoihin siten, että samalla saat hieman annettua jaloille muotoa.
+Kiinnitä lyhimmät jalat keskiosan yläreunaan, keskipitkät keskiosan alareunaan ja pisimmät jalat alaosan yläreunaan. Päättele jalkojen langat jalkoihin siten, että saat samalla hieman annettua jaloille muotoa. ![Jalkojen kiinnityskohdat](/img/fruit_fly/full_fly.jpg){:class="img-responsive"}
 
 Tee siipiin kropan värisellä langalla (2 säiettä riittänee) mallin mukaisia rakenteita.
 
