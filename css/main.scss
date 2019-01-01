@@ -13,13 +13,27 @@ $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$brand-primary:    #7570b3;
+$brand-color:      $brand-primary;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
+$text-color:       #111;
+$background-color: #fdfdfd;
+
+$headings-font-weight:    600;
+$headings-color:          $grey-color-dark;
+
+$navbar-default-color:              $brand-primary;
+$navbar-default-bg:                 lighten($navbar-default-color, 40%);
+$navbar-default-link-color:         $brand-primary;
+$navbar-default-link-hover-color:   darken($navbar-default-color, 10%);
+$navbar-default-toggle-hover-bg:    lighten($navbar-default-color, 40%);
+$navbar-default-toggle-icon-bar-bg: $brand-primary;
+
+$dropdown-link-color:               $brand-primary;
+$dropdown-link-hover-bg:            lighten($navbar-default-color, 40%);
 
 // Width of the content area
 $content-width:    800px;
