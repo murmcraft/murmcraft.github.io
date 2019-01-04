@@ -5,6 +5,7 @@ subtitle: ""
 author: "murmcraft"
 avatar: "authors/murmcraft_thumbnail.png"
 tags: [hiiri, kortti]
+category: [own]
 img: "dissected_mouse/dissected_mouse1.jpg"
 date:   2018-12-06 20:12:12
 ---
