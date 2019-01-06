@@ -32,7 +32,7 @@ Kortin pohjaksi tarvitsee olla jämäkkää kartonkia ja muutoinkin hellät otte
 - kjs = ketjusilmukka
 - ps = piilosilmukka
 
-#### Kroppa
+#### Kroppa:
 Musta/ihon värinen lanka, aloita mustalla langalla
 1. 6 silmukan magic ring (6)
 2. 1 ks lisäys jokaiseen (12)
@@ -72,26 +72,26 @@ Punainen lanka
 1. 8 silmukan magic ring
 Tee lopetukseksi ps.
 
-#### Jalat (2kpl kutakin)
+#### Jalat (2kpl kutakin):
 Tässä käytin kropan väristä lankaa sekä hieman vaaleampaa lankaa kaverina [nyörivirkkauksessa](http://cup-of-stitches.blogspot.com/2014/01/crochet-cord-tutorial.html).
 Nyörivirkkauksella jalasta saa pyöreämmän ja jämäkämmän kuin pelkin ketjusilmukoin tehtynä. 
 
-**Takajalat**
+**Takajalat:**
 1. 1 kjs aloitukseksi
 2. 17 nyöritekniikalla kahdella värillä
 3. 7 kjs yhdellä värillä
 
-**Keskijalat**
+**Keskijalat:**
 1. 1 kjs aloitukseksi
 2. 14 nyöritekniikalla kahdella värillä
 3. 6 kjs yhdellä värillä
 
-**Etujalat**
+**Etujalat:**
 1. 1 kjs aloitukseksi
 2. 12 nyöritekniikalla kahdella värillä
 3. 4 kjs yhdellä värillä
 
-#### Siivet (2 kpl)
+#### Siivet (2 kpl):
 Harmaa lanka
 1. 2 kjs + 1 kjs käännökseen (2)
 2. käännä, 2 ks + 1 kjs (2)
@@ -116,7 +116,7 @@ Harmaa lanka
 21. käännä, vähennys (1)
 Virkkaa siiven reunat kiinteillä silmukoilla. **Huom!** Virkkaa toisen siiven reunat eri puolelta, jotta saat siivistä toistensa peilikuvat.
 
-#### Kokoaminen
+#### Kokoaminen:
 
 Kiinnitä silmät pään etuosaan hieman sivuille. 
 
