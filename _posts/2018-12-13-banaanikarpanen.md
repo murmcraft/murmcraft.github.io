@@ -37,7 +37,7 @@ Musta/ihon värinen lanka, aloita mustalla langalla
 1. 6 silmukan magic ring (6)
 2. 1 ks lisäys jokaiseen (12)
 3. 1 ks jokaiseen (12)
-4. (3 ks + 1 ks lisäys) x3 (15)
+4. (3 ks + 1 ks lisäys) x 3 (15)
 5. 1 ks jokaiseen (15), viimeisellä silmukalla vaihda vaaleaan lankaan
 6. 1 ks jokaiseen (15)
 7. (4 ks + 1 ks lisäys) x 3 (18), viimeisellä silmukalla vaihda mustaan lankaan
@@ -50,21 +50,21 @@ Musta/ihon värinen lanka, aloita mustalla langalla
 14. (4 ks + 2 yhteen) x3 (15), täytä tiukaksi
 15. (3 ks + 2 yhteen) x3 (12), jatka täyttöä
 16. (2 ks + 2 yhteen) x3 (9), jatka täyttöä
-17. (2 ks + 1 ks lisäys) x3 (12), jatka täyttöä
-18. (1 ks + 1ks lisäys) x6 (18)
+17. (2 ks + 1 ks lisäys) x 3 (12), jatka täyttöä
+18. (1 ks + 1ks lisäys) x 6 (18)
 19. 1 ks jokaiseen (18)
 20. 1 ks jokaiseen (18)
 21. 1 ks jokaiseen (18)
 22. 1 ks jokaiseen (18)
 23. 1 ks jokaiseen (18)
-24. (1 ks + 2 yhteen) x6 (12), täytä
-25. (2 ks + 2 yhteen) x3 (9), jatka täyttöä
-26. (2 ks + 1 ks lisäys) x3 (12), jatka täyttöä
-27. (3 ks + 1 ks lisäys) x3 (15)
+24. (1 ks + 2 yhteen) x 6 (12), täytä
+25. (2 ks + 2 yhteen) x 3 (9), jatka täyttöä
+26. (2 ks + 1 ks lisäys) x 3 (12), jatka täyttöä
+27. (3 ks + 1 ks lisäys) x 3 (15)
 28. 1 ks jokaiseen (15)
-29. (3 ks + 2 yhteen) x3 (12), täytä
-30. (2 ks + 2 yhteen) x3 (9), jatka täyttöä
-31. (2 ks + 2 yhteen) x3 (6) 
+29. (3 ks + 2 yhteen) x 3 (12), täytä
+30. (2 ks + 2 yhteen) x 3 (9), jatka täyttöä
+31. (2 ks + 2 yhteen) x 3 (6) 
 Sulje pää virkkaamalla ks + ps + ks (näin saat nystyrät). 
 
 #### Silmät:
