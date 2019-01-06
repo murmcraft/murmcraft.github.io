@@ -41,7 +41,7 @@ Hiiri on ~9 cm pitkä, ~8 cm leveä, ja ~3 cm paksu.
 - ps = piilosilmukka
 - tee vähennykset "näkymättömänä" poimimalla kahden perättäisen silmukan etureuna ja viemällä lanka niiden läpi, ja uudelleen muodostuneen kahden silmukan läpi
 
-#### Pää
+#### Pää:
 Pinkki/ruskea lanka, aloita pinkillä langalla
 1. 4 silmukan magic ring (4)
 2. lisäys x 4 (8) ja viimeisellä silmukalla vaihda ruskeaan lankaan
@@ -63,7 +63,7 @@ Täytä pää tiiviisti vanulla.
 16. vähennys x 6 (6)
 Jätä lankaa päättelyyn ja kiinnitykseen.
 
-#### Korvat
+#### Korvat:
 Pinkki lanka
 1. 6 silmukan magic ring (6)
 2. (lisäys, 1 ks) x 3 (9)
@@ -74,7 +74,7 @@ Pinkki lanka
 7. (vähennys, 2 ks) x 3 (9)
 Tee lopetukseksi ps. Jätä riittävästi lankaa kiinnittääksesi korvat päähän.
 
-#### Vartalo (alaosa)
+#### Vartalo (alaosa):
 Ruskea lanka
 1. 4 silmukan magic ring (4)
 2. 8 ks (8)
@@ -88,7 +88,7 @@ Ruskea lanka
 10. (vähennys + 7 ks) x 3 (24) + ps
 Jätä lankaa päättelyyn ja osien yhteen ompelemiseen.
 
-#### Vartalo (keskiosa)
+#### Vartalo (keskiosa):
 Ruskea lanka
 1. 24 kjs + 1 kjs käännökseen
 2. 24 ks + 1 kjs käännökseen
@@ -99,7 +99,7 @@ Ruskea lanka
 7. 24 ks + 1 kjs käännökseen
 Tee lopuksi reunat kiinteillä silmukoilla koko suorakaiteen ympäri. Näin reunat ovat tasaisemmat ja muoto jämäkämpi.
 
-#### Vartalo (yläosa)
+#### Vartalo (yläosa):
 Ruskea lanka
 1. 15 kjs renkaaksi
 2. 15 ks (15)
@@ -110,7 +110,7 @@ Ruskea lanka
 Jätä lankaa päättelyyn ja osien yhteen ompelemiseen. 
 (**Huom!** Yläosa voisi olla myös kerroksen kaksi lyhyempi ja vastaavasti keskiosassa sama määrä lisäkerroksia, jotta elimille olisi enemmän tilaa ja ne näkyisivät paremmin.) 
 
-#### Takajalat (2 kpl)
+#### Takajalat (2 kpl):
 Pinkki/ruskea lanka, aloita pinkillä langalla.
 1. 6 silmukan magic ring (6)
 2. 6 ks (6)
@@ -125,7 +125,7 @@ Pinkki/ruskea lanka, aloita pinkillä langalla.
 Tee lopetukseksi ps. Jätät riittävästi lankaa kiinnittääksesi jalat vartaloon.
 Täytä jalkaterää ja lisää tarvittaessa rautalankaa, jotta saat taipuneen käpälän.
 
-#### Etujalat (2 kpl)
+#### Etujalat (2 kpl):
 Pinkki/ruskea lanka, aloita pinkillä langalla.
 1. 6 silmukan magic ring (6)
 2. 6 ks (6)
@@ -137,13 +137,13 @@ Pinkki/ruskea lanka, aloita pinkillä langalla.
 8. 6 ks (6)
 Tee lopetukseksi ps. Jätä riittävästi lankaa kiinnittääksesi etujalat vartaloon. 
 
-#### Häntä
+#### Häntä:
 Pinkki lanka
 1. 30 kjs + 1 kjs käännökseen
 2. 5 ps, 5 ks, 10 ½-p, 10 p
 Jätä riittävästi lankaa kiinnittääksesi hännän vartaloon.
 
-#### Sydän
+#### Sydän:
 Tummanpunainen lanka, 1.75 mm koukku
 1. 4 silmukan magic ring (4)
 2. 4 ks (4)
@@ -151,17 +151,17 @@ Tummanpunainen lanka, 1.75 mm koukku
 4. (lisäys, 2 ks) x 2 (8)
 Tee lopetukseksi ps. Päättele.
 
-#### Paksusuoli
+#### Paksusuoli:
 Ihon/sinapin värinen lanka, 1.75 mm koukku
 1. 6 silmukan magic ring (6)
 2. 6 ks noin 17 kerroksen verran. Tee välillä vähennys ja välillä lisäys, jotta suolesta tulee möykkyisempi.
-Tee lopetukseksi ps. Päättele.
+Tee lopetukseksi ps. Tee suolesta mutkitteleva kasa samalla kun päättelet langan suolen sisään.
 
-#### Ohutsuoli
+#### Ohutsuoli:
 Vaaleanbeige lanka (vaaleampi kuin paksusuoli) ja paksusuolen väristä lankaa, 1.75 mm koukku
-Tee [nyörivirkkauksella](http://cup-of-stitches.blogspot.com/2014/01/crochet-cord-tutorial.html){:target="_blank"} pitkä ketju (noin >20 kerrosta) käyttäen molempia lankoja ristiin, jotta lopputuloksen väritys on epätasainen.
+Tee [nyörivirkkauksella](http://cup-of-stitches.blogspot.com/2014/01/crochet-cord-tutorial.html){:target="_blank"} pitkä ketju (noin >20 kerrosta) käyttäen molempia lankoja ristiin, jotta lopputuloksen väritys on epätasainen. Tee suolesta mutkitteleva kasa samalla kun päättelet langan suolen sisään.
 
-#### Maksan iso lohko
+#### Maksan iso lohko:
 Rusehtava/oranssihtavan punertava lanka, 1.75 mm koukku
 1. 1 kjs + 1 kjs käännökseen
 2. lisäys + 1 kjs (2)
@@ -172,15 +172,15 @@ Rusehtava/oranssihtavan punertava lanka, 1.75 mm koukku
 7. käännä, vähennys, vähennys, 5 ks + 1 kjs (7)
 8. käännä, vähennys, 3 ks, vähennys (5)
 
-#### Maksan pienempi lohko (2 kpl)
+#### Maksan pienempi lohko (2 kpl):
 Rusehtava/oranssihtavan punertava lanka, 1.75 mm koukku
 1. 2 kjs + 1 kjs käännökseen (2)
 2. käännä, 1 ks, lisäys + 1 kjs (3)
 3. käännä, 2 ks, lisäys + 1 kjs (4)
 4. vähennys x 2 (2)
-Jätä riittävästi lankaa kiinnitääksesi pienemmät osat isompaan.
+Jätä riittävästi lankaa kiinnitääksesi pienemmät osat isompaan ja samalla päättele langanpäät.
 
-#### Kokoaminen
+#### Kokoaminen:
 
 Kiinnitä korvat päälaelle.
 
