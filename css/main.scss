@@ -35,6 +35,8 @@ $navbar-default-toggle-icon-bar-bg: $brand-primary;
 $dropdown-link-color:               $brand-primary;
 $dropdown-link-hover-bg:            lighten($navbar-default-color, 40%);
 
+$pager-hover-bg:                    lighten($brand-primary, 30%);					
+
 // Width of the content area
 $content-width:    800px;
 
