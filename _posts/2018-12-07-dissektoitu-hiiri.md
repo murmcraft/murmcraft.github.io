@@ -204,4 +204,4 @@ Lisää ohuella metallilangalla varovasti viikset kuonoon vetämällä sopivan p
 
 Mallin ideana toimivat Karen Gossin [Little Grey Mouse](https://www.ravelry.com/patterns/library/little-grey-mouse){:target="_blank"} ja Dawn Boeningin (Good
 Morning Yarns) [Dissected Mouse with Removable Organs](https://www.etsy.com/listing/188420178/dissected-mouse-with-removable-organs
-){:target="_blank"}. Sekä tietenkin googlen kuvahaulla löytyvät **aidot** [dissektoitujen hiirten kuvat](https://www.researchgate.net/figure/Abdominal-and-thoracic-organs-in-the-mouse-These-organs-are-typically-visible-when-an_fig1_51576510){:target="_blank"} (Varoitus: linkistä avautuva kuva saattaa aiheuttaa pahoinvointia tottumattomalle...). 
+){:target="_blank"}. Sekä tietenkin googlen kuvahaulla löytyvät **aidot** [dissektoitujen hiirten kuvat](https://www.researchgate.net/figure/Abdominal-and-thoracic-organs-in-the-mouse-These-organs-are-typically-visible-when-an_fig1_51576510){:target="_blank"} (*Varoitus: linkistä avautuva kuva saattaa aiheuttaa pahoinvointia tottumattomalle...*). 
