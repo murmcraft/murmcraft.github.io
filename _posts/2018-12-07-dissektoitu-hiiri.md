@@ -159,7 +159,7 @@ Tee lopetukseksi ps. Päättele.
 
 #### Ohutsuoli
 Vaaleanbeige lanka (vaaleampi kuin paksusuoli) ja paksusuolen väristä lankaa, 1.75 mm koukku
-Tee [nyörivirkkauksella](http://cup-of-stitches.blogspot.com/2014/01/crochet-cord-tutorial.html) pitkä ketju (noin >20 kerrosta) käyttäen molempia lankoja ristiin, jotta lopputuloksen väritys on epätasainen.
+Tee [nyörivirkkauksella](http://cup-of-stitches.blogspot.com/2014/01/crochet-cord-tutorial.html){:target="_blank"} pitkä ketju (noin >20 kerrosta) käyttäen molempia lankoja ristiin, jotta lopputuloksen väritys on epätasainen.
 
 #### Maksan iso lohko
 Rusehtava/oranssihtavan punertava lanka, 1.75 mm koukku
@@ -202,6 +202,6 @@ Laita liimaa yksitellen tassujen/jalkaterien/vartalon avatun osan kulmien alle j
 
 Lisää ohuella metallilangalla varovasti viikset kuonoon vetämällä sopivan pituinen lanka viistosti kuonon läpi.
 
-Mallin ideana toimivat Karen Gossin [Little Grey Mouse](https://www.ravelry.com/patterns/library/little-grey-mouse) ja Dawn Boeningin (Good
+Mallin ideana toimivat Karen Gossin [Little Grey Mouse](https://www.ravelry.com/patterns/library/little-grey-mouse){:target="_blank"} ja Dawn Boeningin (Good
 Morning Yarns) [Dissected Mouse with Removable Organs](https://www.etsy.com/listing/188420178/dissected-mouse-with-removable-organs
-). Sekä tietenkin googlen kuvahaulla löytyvät aidot [dissektoitujen hiirten kuvat](https://www.researchgate.net/figure/Abdominal-and-thoracic-organs-in-the-mouse-These-organs-are-typically-visible-when-an_fig1_51576510). 
+){:target="_blank"}. Sekä tietenkin googlen kuvahaulla löytyvät **aidot** [dissektoitujen hiirten kuvat](https://www.researchgate.net/figure/Abdominal-and-thoracic-organs-in-the-mouse-These-organs-are-typically-visible-when-an_fig1_51576510){:target="_blank"} (Varoitus: linkistä avautuva kuva saattaa aiheuttaa pahoinvointia tottumattomalle...). 
