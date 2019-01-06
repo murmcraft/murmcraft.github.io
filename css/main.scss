@@ -37,6 +37,13 @@ $dropdown-link-hover-bg:            lighten($navbar-default-color, 40%);
 
 $pager-hover-bg:                    lighten($brand-primary, 30%);					
 
+$btn-border-radius-base: 		15px;
+$btn-default-color:             $brand-primary;
+$btn-default-bg:                $background-color;
+$btn-default-border:            $grey-color-light;
+$btn-custom-hover:				darken($brand-primary, 10%);
+$btn-custom-hover-bg:				lighten($brand-primary, 30%);
+
 // Width of the content area
 $content-width:    800px;
 

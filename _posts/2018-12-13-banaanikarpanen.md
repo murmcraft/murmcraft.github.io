@@ -3,7 +3,7 @@ layout: post
 title:  "D. melanogaster -kortti"
 subtitle: ""
 author: "murmcraft"
-avatar: "authors/murmcraft_thumbnail.png"
+permalink: banaanikarpanen
 tags: [banaanikärpänen, drosophila melanogaster, kortti]
 category: [own]
 img: "fruit_fly/fly_card.jpg"

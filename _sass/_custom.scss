@@ -1,3 +1,12 @@
 .img-responsive {
 	max-width: 300px;
 }
+
+.btn-custom {
+	border-radius: $btn-border-radius-base;
+	border: 1px solid $btn-default-border;
+}
+.btn-custom:hover{
+	color: $btn-custom-hover;
+	background-color: $btn-custom-hover-bg;
+}

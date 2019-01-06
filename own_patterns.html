@@ -8,7 +8,14 @@ permalink: /own_patterns/
 <ul>
   {% for post in site.categories.own %}
     {% if post.url %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        <li>
+        	<a href="{{ post.url }}">{{ post.title }}</a>
+ 
+ 			<a href="{{ site.baseurl }}/downloads{{ post.url }}.pdf" download>
+ 	       		<button class="btn-default btn-custom"><i class="fa fa-download"></i> PDF</button>
+ 	       	</a>
+    	</li>
+
     {% endif %}
   {% endfor %}
 </ul>

@@ -3,7 +3,7 @@ layout: post
 title:  "Dissektoitu hiiri -kortti"
 subtitle: ""
 author: "murmcraft"
-avatar: "authors/murmcraft_thumbnail.png"
+permalink: dissektoitu-hiiri
 tags: [hiiri, kortti]
 category: [own]
 img: "dissected_mouse/dissected_mouse1.jpg"
