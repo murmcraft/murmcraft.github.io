@@ -194,13 +194,15 @@ Kiinnitä häntä vartalon alaosan keskelle.
 
 Liimaa tai ompele elimet oikeaoppiseen järjestykseen vartalon keskiosaan.
 
-Tässä vaiheessa lienee viisainta mallailla hiiriä kortin etupuolelle ja kirjoittaa korttitekstit sopiviiin kohtiin.
+Tässä vaiheessa lienee viisainta mallailla hiirtä kortin etupuolelle ja kirjoittaa korttitekstit sopiviiin kohtiin.
 
 Katkaise nuppineulojen varret sopivan pituisiksi sivuleikkureilla (noin 1–1.5 cm). 
 
 Laita geeliliimaa vartalon keskiosan ja pään alle ja liimaa hiiri tiukasti korttiin.
 
 Laita liimaa yksitellen tassujen/jalkaterien/vartalon avatun osan kulmien alle ja paina lyhennetty nuppineula osan läpi niin, että myös se tarttuu osan alla olevaan liimakekoon.
+
+Halutessasi liimaa myös häntää kivasti mutkalle tai jätä se vapaasti roikkumaan.
 
 Lisää ohuella metallilangalla varovasti viikset kuonoon vetämällä sopivan pituinen lanka viistosti kuonon läpi.
 
