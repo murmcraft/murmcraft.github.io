@@ -194,6 +194,8 @@ Kiinnitä häntä vartalon alaosan keskelle.
 
 Liimaa tai ompele elimet oikeaoppiseen järjestykseen vartalon keskiosaan.
 
+Tässä vaiheessa lienee viisainta mallailla hiiriä kortin etupuolelle ja kirjoittaa korttitekstit sopiviiin kohtiin.
+
 Katkaise nuppineulojen varret sopivan pituisiksi sivuleikkureilla (noin 1–1.5 cm). 
 
 Laita geeliliimaa vartalon keskiosan ja pään alle ja liimaa hiiri tiukasti korttiin.
