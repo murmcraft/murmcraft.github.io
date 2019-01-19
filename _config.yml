@@ -26,8 +26,8 @@ paginate_path: /page:num/
 analytics: ""
 
 # Comments
-disqus: no
-disqus-shortname: ""
+disqus: yes
+disqus-shortname: "murmcraft"
 
 #social
 #facebook: ""
