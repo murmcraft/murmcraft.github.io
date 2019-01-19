@@ -7,6 +7,11 @@ permalink: banaanikarpanen
 tags: [banaanikärpänen, drosophila melanogaster, kortti]
 category: [own]
 img: "fruit_fly/fly_card.jpg"
+images: 
+  - fruit_fly/fly_body.jpg
+  - fruit_fly/full_fly.jpg
+  - fruit_fly/full_fly_wings.jpg
+  - fruit_fly/fly_card.jpg
 date:   2018-12-13 20:00:00
 ---
 
