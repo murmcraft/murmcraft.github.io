@@ -52,9 +52,9 @@ Musta/ihon värinen lanka, aloita mustalla langalla
 11. 1 ks jokaiseen (18), viimeisellä silmukalla vaihda vaalea lanka
 12. 1 ks jokaiseen (18)
 13. 1 ks jokaiseen (18)
-14. (4 ks + 2 yhteen) x3 (15), täytä tiukaksi
-15. (3 ks + 2 yhteen) x3 (12), jatka täyttöä
-16. (2 ks + 2 yhteen) x3 (9), jatka täyttöä
+14. (4 ks + 2 yhteen) x 3 (15), täytä tiukaksi
+15. (3 ks + 2 yhteen) x 3 (12), jatka täyttöä
+16. (2 ks + 2 yhteen) x 3 (9), jatka täyttöä
 17. (2 ks + 1 ks lisäys) x 3 (12), jatka täyttöä
 18. (1 ks + 1ks lisäys) x 6 (18)
 19. 1 ks jokaiseen (18)
