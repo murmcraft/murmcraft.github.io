@@ -7,6 +7,9 @@ permalink: dissektoitu-hiiri
 tags: [hiiri, kortti]
 category: [own]
 img: "dissected_mouse/dissected_mouse1.jpg"
+images:
+  - dissected_mouse/dissected_mouse_back.jpg
+  - dissected_mouse/dissected_mouse1.jpg
 date:   2018-12-06 20:12:12
 ---
 
