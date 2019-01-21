@@ -11,9 +11,11 @@ permalink: /own_patterns/
         <li>
         	<a href="{{ post.url }}">{{ post.title }}</a>
  
- 			<a href="{{ site.baseurl }}/downloads{{ post.url }}.pdf" download>
+ 			{% if post.pdf %}
+ 				<a href="{{ site.baseurl }}/downloads{{ post.url }}.pdf" download>
  	       		<button class="btn-default btn-custom"><i class="fa fa-download"></i> PDF</button>
- 	       	</a>
+ 	       		</a>
+ 	       	{% endif %}
     	</li>
 
     {% endif %}

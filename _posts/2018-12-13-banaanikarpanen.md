@@ -12,6 +12,7 @@ images:
   - fruit_fly/full_fly.jpg
   - fruit_fly/full_fly_wings.jpg
   - fruit_fly/fly_card.jpg
+pdf: true
 date:   2018-12-13 20:00:00
 ---
 
