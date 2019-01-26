@@ -15,8 +15,13 @@ layout: default
                   <span itemprop="name">{{ page.author }}
                   </span>
                 </span>
-                {% endif %}
-              </p>
+              {% endif %}
+              {% if page.pdf %} • 
+                  <a href="{{ site.baseurl }}/downloads{{ page.url }}.pdf" download>
+                  <button class="btn-default btn-custom"><i class="fa fa-download"></i> PDF</button>
+                  </a>
+              {% endif %}
+            </p>
                  
           </header>
 
