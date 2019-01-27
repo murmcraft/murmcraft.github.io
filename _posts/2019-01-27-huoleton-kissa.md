@@ -17,7 +17,7 @@ date:   2019-01-27 16:00:00
 
 Pam Grennesin Huoleton kissa 
 
-Pam Grennes on julkaissut blogissaan suloisen kissan - [Laid-back cat amigurumi](https://crochetparfait.blogspot.com/2013/08/laid-back-cat-amigurumi.html){:target="_blank"}, ja tottahan sellaisia piti tehdä useampikin sitten kun vauhtiin pääsin. 
+Pam Grennes on julkaissut blogissaan suloisen kissan - [Laid-back cat amigurumi](https://crochetparfait.blogspot.com/2013/08/laid-back-cat-amigurumi.html){:target="_blank"}, ja tottahan sellaisia piti tehdä useampikin sitten kun vauhtiin pääsin. Yksi pääsi jouluna koristamaan äidin kirjahyllyn reunaa.
 
 Tässä on ohje suomeksi käännettynä ja kommentoitu omilla muutoksillani: huovan sijaan käytin turvanenää ja tein solmuilla anturat tassuihin. Tein kissa myös pienemmällä koukulla ja ohuemmalla langalla, jotka sattuivat kätköistä löytymään, joten kissasta tuli melko pieni. 
 
