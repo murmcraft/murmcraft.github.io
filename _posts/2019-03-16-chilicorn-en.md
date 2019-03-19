@@ -17,7 +17,7 @@ pdf: false
 date:   2019-03-16 09:00:00
 ---
 
-Chilicorn v0.1 alpha
+Chilicorn v0.1 alpha - in English
 
 I recently got camera covers for my laptops as a souvenier gift from Tampere. These camera covers have a picture of Chilicorn - [the mascot of Futurice Open Source Social Responsibility program](https://spiceprogram.org/chilicorn-history/){:target="_blank"}. I heard a story that finding and getting these camera covers was not entirely simple and thus I wanted to make a gift in return, so I decided to develop an amigurumi pattern. 
 
