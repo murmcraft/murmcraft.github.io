@@ -13,7 +13,7 @@ images:
   - chilicorn/chilicorn_bottom.jpg
   - chilicorn/chilicorn.jpg
   - chilicorn/chilicorn_mane.jpg
-pdf: false
+pdf: true
 date:   2019-03-16 09:00:00
 ---
 
