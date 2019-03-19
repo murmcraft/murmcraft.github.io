@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Chilicorn"
+title:  "Chilicorn in Enlish"
 subtitle: ""
 author: "murmcraft"
 permalink: chilicorn-en
