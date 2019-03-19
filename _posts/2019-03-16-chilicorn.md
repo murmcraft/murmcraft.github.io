@@ -173,3 +173,5 @@ Täytä kaulaa vanulla ja lisää takareunaan jotakin painavaa tasapainoksi. Its
 Kiinnitä pohja kaulan reunoihin ja täytä kaulaa tarpeen vaatiessa vielä lisää. Jotta lopputulos olisi mahdollisimman vakaa, kannattaisi ehkä lisätä myös pala kartonkia pohjalle (muutoin vanu saattaa olla möykkyisä ja entisestään epävakauttaa päätä).
 
 Leikkaa mustasta huovasta silmät ja liimaa ne pään sivuille.
+
+Trimmaa harja sopivaksi leikkaamalla lankoja hieman viistosti.
