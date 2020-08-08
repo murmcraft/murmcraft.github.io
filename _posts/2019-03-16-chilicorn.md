@@ -6,7 +6,7 @@ author: "murmcraft"
 permalink: chilicorn
 tags: [chilicorn, chilisarvinen, hevonen, pää, yksisarvinen, unicorn]
 category: [own]
-img: "chilicorn/chilicorn_mane.jpg"
+img: "chilicorn/chilicorn.jpg"
 images: 
   - chilicorn/chilicorn_head.jpg
   - chilicorn/chilicorn_headfill.jpg
