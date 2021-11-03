@@ -19,7 +19,7 @@ date:   2019-03-16 09:00:00
 
 Chilicorn v0.1 alpha - in English
 
-I recently got camera covers for my laptops as a souvenier gift from Tampere. These camera covers have a picture of Chilicorn - [the mascot of Futurice Open Source Social Responsibility program](https://spiceprogram.org/chilicorn-history/){:target="_blank"}. I heard a story that finding and getting these camera covers was a bit of a struggle and thus I wanted to make a gift in return, so I decided to develop an amigurumi pattern. 
+I recently got camera covers for my laptops as a souvenir gift from Tampere. These camera covers have a picture of Chilicorn - [the mascot of Futurice Open Source Social Responsibility program](https://spiceprogram.org/chilicorn-history/){:target="_blank"}. I heard a story that finding and getting these camera covers was a bit of a struggle and thus I wanted to make a gift in return, so I decided to develop an amigurumi pattern. 
 
 I am not yet that skilled in crochet, so this project ended up quite challenging... With some blood, sweat and tears, I finally finished a publishable version 0.1 alpha. This version is not entirely stable and the poor thing falls on its face easily. I solved this balance bug by filling the neck with small coins. It is not yet the most optimal solution, but it works.
 
@@ -160,7 +160,7 @@ End with a sl.st. Leave enough yarn to sew the bottom to the neck.
 #### Assembly:
 Fold the ears to make them sharp and more "horse-like" ears. Sew the ears around 7th to 11th rounds (counting from the magic ring).
 
-Sew the chili in the middle in fron of the ears. Place the white spot on the right side of the head (from front).
+Sew the chili in the middle in front of the ears. Place the white spot on the right side of the head (from front).
 
 Cut 6x about 15-20 cm strings from each mane color yarn (test if half of the string is long enough to reach the bottom of the neck and cut a bit longer string).
 Attach the strings with a needle (or with a hook) such that the string goes under a stitch and forms a loop on the other side. Then pull the string ends through the loop and make it tight.
