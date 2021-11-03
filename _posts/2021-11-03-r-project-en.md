@@ -13,7 +13,7 @@ images:
   - r_project/r-parts.jpg
   - r_project/r-deco.jpg
 pdf: true 
-date:   2021-11-02 08:00:00
+date:   2021-11-03 08:00:00
 ---
 
 R logo crochet pattern in English
@@ -22,9 +22,11 @@ I started my programming career with R and I still use it sometimes, especially 
 plots. Thus, R has a special place in my heart, although I'm not that eager to use it now that I've learned python.
 
 Recently I've had quite a crochet mania - I've been producing my own patterns as well as using existing patterns to 
-crochet different programming related amigurumis. I couldn't find a satisfying pattern for letter R and ended up 
-modifying [CrochetCircle's](https://www.thecrochetcircle.com/tutorials/crochet-alphabet-letter-r) pattern to smaller
-and angular format. 
+crochet different programming related amigurumis and, of course, I had to make also 
+[R logo](https://www.r-project.org/logo/){:target="_blank"}. I couldn't find a satisfying pattern for letter R 
+and ended up modifying 
+[CrochetCircle's](https://www.thecrochetcircle.com/tutorials/crochet-alphabet-letter-r){:target="_blank"} 
+pattern to smaller and angular format instead of flat sides. 
 
 From my almost-forgotten stash of yarn, I found Anchor artiste metallic yarns. This is annoyingly hard yarn, not that
 pleasant for crocheting but the logo looks fancier with the glitter (and the yarn hides all mistakes). Furthermore,
@@ -86,7 +88,7 @@ Continue without turning
 
 Leave enough yarn to weave in the end.
 
-Turn the P upside down and start by making 1 ch into the corner
+Turn the P upside down and start by making 1 ch into the leg's corner
 23. dec, 3 sc (4), turn
 24. ch 1, inc, 1 sc, dec (4), turn
 25. ch 1, dec, 1 sc, inc (4), turn
@@ -99,10 +101,10 @@ Leave enough yarn to weave in the end.
 #### R sides (2x)
 Dark blue yarn
 
-Make 2 side pieces, one is longer (outer side) and another one quite short (R inner part). Measure the lenght while
+Make 2 side pieces, one is longer (outer side) and another one quite short (R inner part). Measure the length while
 you crochet by assembling the side piece loosely around the R. It is easiest to crochet a bit longer piece than what
 is actually needed, place a stitch mark to the last stitch and leave a lot of yarn. Once the side piece is mostly 
-sewed to R, you'll understand whether you'll need to crochet more or unwind in order to get perfect fit.
+sewed to R, you'll understand whether you'll need to crochet more or unwind in order to get a perfect fit.
 
 1. ch 4
 2. 3 sc (3), turn
@@ -117,7 +119,7 @@ but also not too loose.
 2. When you proceed sewing, you'll notice whether the side piece length fits or if you'll need to crochet more rows or
 unwind some if it is too long.
 3. Sew the side piece to inner part of the R similarly.
-4. Swe the back R first to the inner side piece. Place it carefully to correct position from the corners.
+4. Sew the back R first to the inner side piece. Place it carefully to correct position from the corners.
 5. Continue sewing the back R starting from the top corner and continuing straight down row by row carefully matching
 the position. While you sew, fill in with the fiber fill. It is important not to leave the filling too late so that
 you'll get the corners stuffed firmly as well.
@@ -162,7 +164,7 @@ you'll need.
 28. 2 sc, dec, 12 sc (15)
 29. 15 sc (15)
 30. 2 sc, dec, 11 sc (14)
-31. 14 sc (14) - latest here place the wire in and start filling, continue filling regularly 
+31. 14 sc (14) - latest here place the wire in and start filling, continue filling regularly
 32. 2 sc, dec, 10 sc (13)
 33. 13 sc (13)
 34. dec, 11 sc (12)
@@ -198,7 +200,9 @@ End with a sl.st. Leave enough yarn to sew the frame to R.
 
 ![](/img/r_project/frame.jpg){:class="img-responsive"}
 
-Frame piece between the R legs
+##### Frame piece between the R legs
+Silver yarn
+
 1. ch 6
 2. 4 sc
 Leave enough yarn to sew the piece to R.
