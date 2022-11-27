@@ -13,7 +13,7 @@ images:
   - chilicorn_ornament/chilicorn-drawing-only.jpg
   - chilicorn_ornament/chilicorn-ornament2.jpg
 pdf: false 
-date:   2022-11-27 08:00:00
+date:   2022-12-01 08:00:00
 ---
 
 Chilicorn-koriste (FI) / Chilicorn ornament (EN)
